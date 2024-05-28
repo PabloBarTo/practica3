@@ -27,7 +27,7 @@ Para realizar la copia, una vez que tengas creada tu cuenta en GitHub, haz click
 
 ### 3. Clonar tu repositorio en tu máquina
 Una vez hecho el paso anterior, tendrás tu repositorio personal de la práctica1 en GitHub; puedes descargarlo a tu ordenador usando:
-`git clone git@github.com:TU_USUARIO_GITHUB/practica3.git` (si no has configurado tu clave SSH, esto no funcionará).
+`git clone git@github.com:PabloBarTo/practica3.git` (si no has configurado tu clave SSH, esto no funcionará).
 
 
 ### 4. Modificar el código y guardar los cambios
